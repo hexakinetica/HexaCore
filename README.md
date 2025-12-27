@@ -31,8 +31,8 @@
 ---
 
 ### 🔗 Compatible Robots
-*   🦾 **Mechanics:** [hexa-medium](https://github.com/HexaKinetica/hexa-medium)
-*   💻 **Operating System:** [hexa-motion](https://github.com/HexaKinetica/hexa-motion)
+*   🦾 **Mechanics:** [HexaArm-Medium](https://github.com/HexaKinetica/HexaArm-Medium)
+*   💻 **Operating System:** [HexaMotion](https://github.com/HexaKinetica/HexaMotion)
 
 ---
 

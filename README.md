@@ -1,4 +1,13 @@
-# 🧠 HexaCore: Universal Robot Controller
+# HexaCore: Universal Robot Controller
+
+<div align="center">
+  <img src="ControlCabinet-Solidworks.png" width="600" alt="HexaCore Control Cabinet Render"/>
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Status-In--Development-blue?style=for-the-badge" alt="Status">
+    <img src="https://img.shields.io/badge/License-AGPL--3.0_&_CC_BY--SA_4.0-green?style=for-the-badge" alt="License">
+</div>
 
 ### **PC-Based Industrial Control Cabinet Architecture**
 >
@@ -32,7 +41,7 @@
 
 ### 🔗 Compatible Robots
 *   🦾 **Mechanics:** [HexaArm-Medium](https://github.com/HexaKinetica/HexaArm-Medium)
-*   💻 **Operating System:** [HexaMotion](https://github.com/HexaKinetica/HexaMotion)
+*   💻 **Operating System:** [HexaMotion](https://github.com/HexaKinetica/HexaMotion_)
 
 ---
 

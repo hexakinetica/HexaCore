@@ -1,7 +1,7 @@
 # HexaCore: Universal Robot Controller
 
 <div align="center">
-  <img src="ControlCabinet-Solidworks.png" width="600" alt="HexaCore Control Cabinet Render"/>
+  <img src="ControlCabinet Solidworks.png" width="600" alt="HexaCore Control Cabinet Render"/>
 </div>
 
 <div align="center">
